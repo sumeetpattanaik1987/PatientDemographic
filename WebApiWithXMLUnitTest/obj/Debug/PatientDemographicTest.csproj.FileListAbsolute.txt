@@ -1,0 +1,105 @@
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\WebApiWithXMLUnitTest.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\WebApiWithXMLUnitTest.pdb
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Castle.Core.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Moq.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\PatientDemographicService.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.ValueTuple.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Cors.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\PatientDemographicService.pdb
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\PatientDemographicService.dll.config
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Castle.Core.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Moq.pdb
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Moq.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.ValueTuple.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\obj\Debug\PatientDemographicTest.csprojResolveAssemblyReference.cache
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\obj\Debug\PatientDemographicTest.csproj.CoreCompileInputs.cache
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\obj\Debug\PatientDemographicTest.csproj.CopyComplete
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\obj\Debug\WebApiWithXMLUnitTest.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApiWithXMLUnitTest\obj\Debug\WebApiWithXMLUnitTest.pdb
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\obj\Debug\PatientDemographicTest.csprojAssemblyReference.cache
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\obj\Debug\PatientDemographicTest.csproj.CoreCompileInputs.cache
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\obj\Debug\WebApiWithXMLUnitTest.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\obj\Debug\WebApiWithXMLUnitTest.pdb
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\ApplicationInsights.config
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\WebApiWithXMLUnitTest.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\WebApiWithXMLUnitTest.pdb
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Castle.Core.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Moq.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\PatientDemographic.Reposiitory.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\PatientDemographicService.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.ValueTuple.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Cors.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.Cors.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Optimization.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Mvc.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.WebHost.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Razor.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\PatientDemographic.Reposiitory.pdb
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\PatientDemographic.Reposiitory.dll.config
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\PatientDemographicService.pdb
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\PatientDemographicService.dll.config
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Castle.Core.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Moq.pdb
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Moq.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.ValueTuple.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.Cors.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Optimization.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Mvc.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Http.WebHost.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.Razor.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Test\Git\CodeAssessment\CodeAssessment\WebApiWithXMLUnitTest\obj\Debug\PatientDemographicTest.csproj.CopyComplete

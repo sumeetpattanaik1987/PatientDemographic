@@ -1,0 +1,11 @@
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\bin\Debug\netcoreapp2.0\PatientDemographic.Service.deps.json
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\bin\Debug\netcoreapp2.0\PatientDemographic.Service.runtimeconfig.json
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\bin\Debug\netcoreapp2.0\PatientDemographic.Service.runtimeconfig.dev.json
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\bin\Debug\netcoreapp2.0\PatientDemographic.Service.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\obj\Debug\netcoreapp2.0\PatientDemographic.Service.csprojResolveAssemblyReference.cache
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\obj\Debug\netcoreapp2.0\PatientDemographic.Service.csproj.CoreCompileInputs.cache
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\obj\Debug\netcoreapp2.0\PatientDemographic.Service.AssemblyInfoInputs.cache
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\obj\Debug\netcoreapp2.0\PatientDemographic.Service.AssemblyInfo.cs
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\bin\Debug\netcoreapp2.0\PatientDemographic.Service.pdb
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\obj\Debug\netcoreapp2.0\PatientDemographic.Service.dll
+C:\Users\SubhransuRay\Documents\Visual Studio 2017\Projects\WebApiWithXMLTest\WebApplication1\obj\Debug\netcoreapp2.0\PatientDemographic.Service.pdb

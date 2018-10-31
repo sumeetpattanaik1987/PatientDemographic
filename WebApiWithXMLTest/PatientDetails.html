@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script src="Script/jquery-1.10.2.min.js"></script>
+    <script src="Script/jquery.validate.min.js"></script>
+    <script src="Script/jquery-1.10.2.intellisense.js"></script>
+    <script src="Controllers/PatientInformation.js"></script>
+    <link href="Content/themes/base/jquery-ui.css" rel="stylesheet" />
+    <script src="Script/jquery-ui-1.10.3.min.js"></script>
+</head>
+
+<body>
+    <script type="text/javascript">
+       
+        $(document).ready(function () {
+            
+            $('#txtDOB').datepicker();
+            $('#txtDOB').datepicker('setDate', 'today');
+            $(function () {
+                $(".date-picker").datepicker({
+                    changeMonth: true,
+                    changeYear: true,
+                    dateFormat: 'dd-M-yy'
+                });
+
+            });
+
+            $('#btnSave').on("click", function () {
+                var forename = $('#txtForeName').val();
+                var surname = $('#txtSurName').val();
+                var dob = $('#txtDOB').val();
+                var gender = $('#ddlGender option:selected').val();
+                var home = $('#txtHome').val();
+                var work = $('#txtWork').val();
+                var mobile = $('#txtMobile').val();
+                
+                savePatientInformation(forename, surname, dob, gender, home, work, mobile);
+            });
+
+        });
+        
+            //$("#txtDOB").on("change", function () {
+            //    dob = $(this).val();
+
+            //});
+    </script>
+    <table style="width:100%;">
+        <tr>
+            <td>ForeName :</td>
+            <td><input id="txtForeName" type="text" /></td>
+        </tr>
+        <tr>
+            <td>SurName :</td>
+            <td><input id="txtSurName" type="text" /></td>
+        </tr>
+        <tr>
+            <td>Date of Birth :</td>
+            <td><input id="txtDOB" type="text" class="form-control date-picker" /></td>
+        </tr>
+        <tr>
+            <td>Gender :</td>
+            <td>
+                <select id="ddlGender">
+                    <option value="3">Select</option>
+                    <option value="0">Male</option>
+                    <option value="1">Female</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Telephone Numbers :</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Home :</td>
+            <td><input id="txtHome" type="text" /></td>
+        </tr>
+        <tr>
+            <td>Work :</td>
+            <td><input id="txtWork" type="text" /></td>
+        </tr>
+        <tr>
+            <td>Mobile :</td>
+            <td><input id="txtMobile" type="text" /></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <input id="btnSave" type="button" value="Save" />
+            </td>
+            <td>
+                <input id="btnSearch" type="button" value="Fetch Record" />
+            </td>
+        </tr>
+    </table>
+    <div id="result">
+    </div>
+</body>
+</html>
